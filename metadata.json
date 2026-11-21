@@ -1,0 +1,6 @@
+{
+  "name": "국민건강보험공단 인재개발원 | 청풍 산사 메타버스",
+  "description": "청풍호와 금수산이 어우러진 국민건강보험공단 인재개발원을 산사처럼 고요하고 자유롭게 거닐 수 있는 3D 힐링 메타버스 공간입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
